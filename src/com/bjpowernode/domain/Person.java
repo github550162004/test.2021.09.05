@@ -1,5 +1,5 @@
 package com.bjpowernode.domain;
 
-public class person {
+public class Person {
     private int id;
 }
